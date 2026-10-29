@@ -1,0 +1,47 @@
+body{
+     font-family: "Quicksand", sans-serif;
+     
+}
+#dest{
+    background-color: aqua;
+    width: 700px;
+    border-radius: 14px;
+}
+h1{
+    color: #0B1A82;
+    text-align: center;
+
+}
+header p{
+    text-align: center;
+    color: #334155;
+}
+h2{
+    color: #037324;
+}
+#dest>h3{
+    color: #037324;
+
+}
+#dest h4{
+    color: #037324;
+
+}
+a{
+    text-decoration: none;
+}
+.popular{
+text-align: center;
+text-decoration: underline;
+}
+#feat{
+    color: #8B1318;
+    font-weight: bold;
+    text-align: center;
+}
+
+#travel p::before{
+    content: "Tips :";
+    color:#037324;
+    font-weight: bold;
+}
