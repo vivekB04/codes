@@ -20,3 +20,8 @@ h1{
 #subs{
     color:purple  
 }
+
+#subs,.software,.institute{
+font-family:monospace;
+text-align: center;
+}
