@@ -1,0 +1,13 @@
+.teacher{
+    color:rgb(110, 207, 19);
+}
+.student{
+    color: hsl(352, 11%, 60%);
+}
+#intern{
+    color:crimson;
+}
+
+h1,p{
+    color:silver;
+}
